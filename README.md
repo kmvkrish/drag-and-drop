@@ -4,6 +4,7 @@ drag-and-drop
 This application will enable us to upload multiple files with a customize drag-and-drop interface usin AJAX and FormData API
 
 This application is composed with the following modules.
+
 1. Drag-and-Drop interface
 
 2. FormData object to handle all the files dropped onto the webpage
